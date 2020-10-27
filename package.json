@@ -1,0 +1,19 @@
+{
+  "name": "array_split",
+  "version": "0.1.0",
+  "description": "This package will take any Array you give and ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "split",
+    "sub-array"
+  ],
+  "author": "Felipe Calderaro {felipacalderaro@calderaro.dev}",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@OWNER"
+  }
+}
