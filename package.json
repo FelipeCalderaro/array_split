@@ -1,6 +1,6 @@
 {
   "name": "@felipecalderaro/array-split",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "This package will take any Array you give and split it in multiple sub-arrays",
   "main": "main.js",
   "keywords": [
