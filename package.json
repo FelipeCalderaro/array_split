@@ -1,19 +1,20 @@
 {
-  "name": "array_split",
+  "name": "@felipecalderaro/array-split",
   "version": "0.1.0",
-  "description": "This package will take any Array you give and ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "This package will take any Array you give and split it in multiple sub-arrays",
+  "main": "main.js",
   "keywords": [
     "array",
     "split",
     "sub-array"
   ],
-  "author": "Felipe Calderaro {felipacalderaro@calderaro.dev}",
+  "author": "Felipe Calderaro {felipecalderaro@calderaro.dev}",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FelipeCalderaro/array_split.git"
+  },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@OWNER"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
