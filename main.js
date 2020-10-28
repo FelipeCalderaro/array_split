@@ -12,7 +12,7 @@ module.exports = (array, n) => {
     }
 
     // n only accepts integer numbers
-    if (!Number.isInteger(n)) {
+    if (!Number.isInteger(n) && n >= 0) {
         throw Error("'n' has to be an Integer Number")
     }
 
